@@ -1,6 +1,6 @@
 # Master JavaScript in 90 Days: Day-by-Day Roadmap to Success. 🚀
 
-## 📅Oct 1st-Dec 30, 2023
+## 📅 Jan 1st-Mar 30th, 2024
 
 ## [Days 1-5: Basics of JavaScript](Day_1-5_Basics_Of_Javascript.md)
 - ~~About JavaScript.~~
@@ -9,12 +9,12 @@
 - ~~Write your first "Hello world" program.😍~~
 
 ## Days 6-10: [Variables and Data Types](Fundamentals)
-- [Variables](Variables.md) and their declaration.
+- Variablesand their declaration.
 - Let, var, and const.
-- [Data types](datatypes.md) and their uses.
+- Data types and their uses.
 - String with Template literals.
 - Operator and its precedence.
-- [Variables](Variables.md) assignment and some essential modification.
+- Variable assignment and some essential modification.
 
 ## Days 11-15: Control Flow
 - Conditional statements (like if, else if, else) and their uses.
